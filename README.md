@@ -1,4 +1,3 @@
-![6EXPROBO](https://github.com/SriSaiPriyaSenthilvel/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/119475702/b456c6b3-4eb6-4102-9989-87e133b572e7)
 ###  DATE: 21.03.2024
 
 ###  NAME:  SRI SAI PRIYA.S
